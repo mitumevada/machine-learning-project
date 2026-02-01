@@ -1,5 +1,7 @@
 # Machine Learning I Project
 
+## A comparative machine-learning study to identify key student-related factors that best predict academic performance.
+
 This repository contains a machine learning project developed jointly by **Yu Chen** and **Mitu Mevada** as part of an academic coursework.
 
 The project is implemented in Python using Jupyter Notebook and focuses on applying core machine learning concepts, data analysis, and model evaluation techniques.
